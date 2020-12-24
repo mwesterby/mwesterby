@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👨‍💻 About Me
+Software Engineer at IBM, developing and testing the [CICS Transaction Server](https://www.ibm.com/uk-en/products/cics-transaction-server) for z/OS.
+
+I previously worked on [API Connect](https://www.ibm.com/uk-en/cloud/api-connect) in IBM for two years after graduating with a master's degree in Computer Science from Newcastle University.
 
 <!--
 **mwesterby/mwesterby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
