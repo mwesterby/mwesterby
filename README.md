@@ -1,5 +1,5 @@
 ### 👨‍💻 About Me
-Software Engineer at IBM, developing and testing the <a href="https://www.ibm.com/uk-en/products/cics-transaction-server" target="_blank">CICS Transaction Server</a> for z/OS.
+Software Engineer at IBM, developing and testing the [CICS Transaction Server](https://www.ibm.com/uk-en/products/cics-transaction-server) for z/OS.
 
 I previously worked on [API Connect](https://www.ibm.com/uk-en/cloud/api-connect) in IBM for two years after graduating with a master's degree in Computer Science from Newcastle University.
 
